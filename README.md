@@ -3,7 +3,8 @@ A Crawler use to get student's grade on NCCU Zerojudge : http://judge.nccucs.org
 
 # Use
 Create a new directory name "sourceCode"
-open terminal:
+
+and open terminal:
 
     npm install
 

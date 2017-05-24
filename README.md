@@ -11,4 +11,7 @@ and open terminal:
 then
 
     node ojstat.js problemId username password
-    
+
+moss
+
+    perl moss.pl -l cc -d sourceCode/d308_2017_05_22_002314/*.cpp    

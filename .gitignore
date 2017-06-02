@@ -1,3 +1,6 @@
+sourceCode/*
+*.csv
+
 # Logs
 logs
 *.log

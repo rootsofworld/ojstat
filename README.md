@@ -5,7 +5,7 @@ A Crawler to get student's grade on NCCU Zerojudge : http://judge.nccucs.org/Sho
 
 Open your terminal:
 
-    	git clone https://github.com/rootsofworld/ojstat.git
+	git clone https://github.com/rootsofworld/ojstat.git
 	cd ojstat
 	npm install
 
